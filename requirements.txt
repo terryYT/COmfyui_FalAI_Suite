@@ -1,0 +1,5 @@
+fal-client
+requests
+Pillow
+numpy
+torch
